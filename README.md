@@ -12,7 +12,9 @@ https://jsfiddle.net/
 https://www.raywenderlich.com/9159-docker-on-macos-getting-started
 
 # english
-https://apps.apple.com/us/app/quizlet/id546473125 (flashcard/trees)
+https://apps.apple.com/us/app/quizlet/id546473125 (flashcard/trees) (5!)
+
+https://www.getspeechify.com/ (5!)
 
 https://ttsreader.com/  (speech to txt)
 
