@@ -8,6 +8,9 @@ https://codesandbox.io/s/q8q1mnr01w
 https://jsfiddle.net/
 
 
+### python
+https://github.com/ricklamers/gridstudio/wiki/Installation
+
 
 https://www.raywenderlich.com/9159-docker-on-macos-getting-started
 
