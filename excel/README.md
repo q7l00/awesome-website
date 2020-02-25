@@ -1,4 +1,7 @@
-python autoCorrect.py
+# pip3 install -r requirements.txt
+# or pip install -r requirements.txt
+# python autoCorrect.py
+
 Which line of data would you like to input?
 3
 What is the answer key?
